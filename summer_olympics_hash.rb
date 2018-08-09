@@ -37,5 +37,5 @@ def iterate_through_keys
  upcase_cities.each do |key|
    puts key
 end
-end
+end 
 end
